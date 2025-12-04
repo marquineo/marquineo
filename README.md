@@ -71,7 +71,7 @@
 </div>
                                                                                       
 </td>       
-
+<!--
 <td width="50%">
 <h3 align="center">Curso Kotlin Multiplatform</h3>
 <div align="center">
@@ -87,7 +87,7 @@
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
 </div>
                                                                                       
-</td>  
+</td>-->  
 </table>                                                                                 
 </div>
 <br>
