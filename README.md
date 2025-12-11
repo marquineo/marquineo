@@ -39,3 +39,5 @@
 
 </tr>
 </table>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/vwT7WwB" data-context="false" ><a href="//imgur.com/a/vwT7WwB">deletable</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
