@@ -1,32 +1,32 @@
 <div align="center">
-  <h1>Hola, soy Marcos Poveda Segovia 👋</h1>
+  <h1 align="center">01001000 01101111 01101100 01100001 00101100 00100000 01010011 01101111 01111001 00100000 01001101 01100001 01110010 01100011 01101111 01110011 00100000 01010000 01101111 01110110 01100101 01100100 01100001 00100000 01010011 01100101 01100111 01101111 01110110 01101001 01100001
+ 👋</h1>
 </div>
 
-<!-- Imagen principal -->
-<p align="center">
-  <img src="https://i.imgur.com/XXXXXXXX.png" width="300" alt="Foto de presentación">
-</p>
+<!--<p align="center">
+  <img src="https://i.imgur.com/REEMPLAZAR.jpg" width="250">
+</p>-->
 
 ## Sobre mí
-
 - 💻 Desarrollador web
-- 🚀 En constante aprendizaje
+- 🚀 Aprendiendo cada día
+- Algunos sufren por amor, yo sufro porque no compila (╥﹏╥)
 - 📍 Valencia, España
 
----
+<br>
 
 ## Proyectos
-
 <table>
   <tr>
+
     <!-- Proyecto 1 -->
     <td width="50%">
       <h3 align="center">Página web Basics</h3>
       <div align="center">
         <a href="https://github.com/marquineo/WebCarlos" target="_blank">
-          <img src="https://i.imgur.com/BadVa07.jpg" width="400" alt="Página Basics">
+          <img src="https://imgur.com/gallery/basic-principalpage-BadVa07#nKTCmGk" width="400" alt="Página Basics">
         </a>
-        <p>Página web <strong>oficial</strong> del centro de entrenamiento personal BASICS.</p>
+        <p>Página web <strong>oficial</strong> del centro de entrenamiento BASICS.</p>
       </div>
     </td>
 
@@ -35,15 +35,11 @@
       <h3 align="center">Norai2006</h3>
       <div align="center">
         <a href="https://github.com/marquineo/Web1830" target="_blank">
-          <img src="https://i.imgur.com/ISOAKJP.jpg" width="400" alt="Página Norai2006">
+          <img src="https://imgur.com/gallery/norai2006-oficial-ISOAKJP#LxJEhjF" width="400" alt="Página Norai2006">
         </a>
-        <p>Página web <strong>oficial</strong> de la distribuidora de bebidas Norai2006.</p>
+        <p>Página web <strong>oficial</strong> de la distribuidora Norai2006.</p>
       </div>
     </td>
+
   </tr>
 </table>
-
-<br>
-
-<!-- Puedes añadir más secciones si quieres -->
-
