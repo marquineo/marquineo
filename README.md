@@ -24,7 +24,7 @@
 <h3 align="center">Página web Basics</h3>
 <div align="center">
 <a href="https://github.com/marquineo/WebCarlos" target="_blank">
-<img src="https://imgur.com/gallery/basic-principalpage-BadVa07#nKTCmGk" width="400" alt="Página Basics">
+<img src="https://i.imgur.com/ISOAKJP.jpg" width="400" alt="Página Norai2006">
 </a>
 <p>Página web <strong>oficial</strong> del centro de entrenamiento BASICS.</p>
 </div>
