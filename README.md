@@ -36,7 +36,9 @@
 <p>Página web <strong>oficial</strong> de la distribuidora Norai2006.</p>
 </div>
 </td>
+</tr>
 
+<tr>
 <!-- Proyecto 3 -->
 <td width="50%">
 <h3 align="center">Puerto</h3>
