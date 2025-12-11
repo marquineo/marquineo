@@ -3,10 +3,6 @@
 👋</h2>
 </div>
 
-<!--<p align="center">
-<img src="https://i.imgur.com/REEMPLAZAR.jpg" width="250">
-</p>-->
-
 ## Sobre mí
 - 💻 Desarrollador web
 - 🚀 Aprendiendo cada día
@@ -24,7 +20,7 @@
 <h3 align="center">Página web Basics</h3>
 <div align="center">
 <a href="https://github.com/marquineo/WebCarlos" target="_blank">
-<img src="https://i.imgur.com/ISOAKJP.jpg" width="400" alt="Página Norai2006">
+<img src="https://imgur.com/a/vwT7WwB" width="400" alt="Página Basics">
 </a>
 <p>Página web <strong>oficial</strong> del centro de entrenamiento BASICS.</p>
 </div>
@@ -35,7 +31,7 @@
 <h3 align="center">Norai2006</h3>
 <div align="center">
 <a href="https://github.com/marquineo/Web1830" target="_blank">
-<img src="https://imgur.com/gallery/norai2006-oficial-ISOAKJP#LxJEhjF" width="400" alt="Página Norai2006">
+<img src="https://i.imgur.com/REEMPLAZAR2.jpg" width="400" alt="Página Norai2006">
 </a>
 <p>Página web <strong>oficial</strong> de la distribuidora Norai2006.</p>
 </div>
