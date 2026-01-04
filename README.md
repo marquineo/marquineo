@@ -20,7 +20,7 @@
 <h3 align="center">Basics</h3>
 <div align="center">
 <a href="https://github.com/marquineo/WebCarlos" target="_blank">
-<img src="https://imgur.com/nKTCmGk.jpg" width="400" alt="Página Basics">
+<img src="https://imgur.com/nKTCmGk.jpg" width="650" alt="Página Basics">
 </a>
 <p>Página web <strong>oficial</strong> del centro de entrenamiento BASICS.</p>
 </div>
@@ -31,7 +31,7 @@
 <h3 align="center">Norai2006</h3>
 <div align="center">
 <a href="https://github.com/marquineo/Web1830" target="_blank">
-<img src="https://imgur.com/LxJEhjF.jpg" width="400" alt="Página Norai2006">
+<img src="https://imgur.com/LxJEhjF.jpg" width="650" alt="Página Norai2006">
 </a>
 <p>Página web <strong>oficial</strong> de la distribuidora Norai2006.</p>
 </div>
@@ -44,7 +44,7 @@
 <h3 align="center">Puerto</h3>
 <div align="center">
 <a href="https://github.com/SantiagoCalderon1/ProyectoIntermodularPuerto" target="_blank">
-<img src="https://imgur.com/7v5fRBZ.jpg" width="400" alt="ProyectoIntermodularPuerto">
+<img src="https://imgur.com/7v5fRBZ.jpg" width="650" alt="ProyectoIntermodularPuerto">
 </a>
 <p>Proyecto de Gestión portuaria y de amarres. Puerto deportivo La Marina de Valencia programado con TypeScript (Angular) y PHP, el cual se realizó mediante un desarrollo incremental y siguiendo la metodología SCRUM.</p>
 </div>
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=github" />
 </a>
 </p>
-<img src="https://i.imgur.com/clcg8Ye.png" width="400" alt="GymBroAnalytics">
+<img src="https://i.imgur.com/clcg8Ye.png" width="650" alt="GymBroAnalytics">
 <p></p>
 </div>
 </td>
