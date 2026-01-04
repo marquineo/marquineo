@@ -54,7 +54,6 @@
 <td width="50%">
 <h3 align="center">GymBroAnalytics</h3>
 <div align="center">
-<p>
 <a href="https://github.com/marquineo/ClienteGA">
   <img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge&logo=github" />
 </a>
