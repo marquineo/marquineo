@@ -62,8 +62,7 @@
   <img src="https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=github" />
 </a>
 </p>
-<img src="https://imgur.com/gallery/gymbroanalytics-7qdkMIJ#clcg8Ye" width="400" alt="GymBroAnalytics">
-</a>
+<img src="https://i.imgur.com/clcg8Ye.png" width="400" alt="GymBroAnalytics">
 <p></p>
 </div>
 </td>
