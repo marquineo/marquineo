@@ -62,7 +62,7 @@
 </a>
 </p>
 <img src="https://i.imgur.com/clcg8Ye.png" width="650" alt="GymBroAnalytics">
-<p></p>
+<p>TFG DAW, aplicación para monitorizar entrenamientos de clientes, generación de gráficos mediante Data Analysis y automatización de la comunicación cliente-entrenador mediante tecnologías de terceros</p>
 </div>
 </td>
 
