@@ -50,6 +50,24 @@
 </div>
 </td>
 
+<!-- Proyecto 4 -->
+<td width="50%">
+<h3 align="center">GymBroAnalytics</h3>
+<div align="center">
+<p>
+<a href="https://github.com/marquineo/ClienteGA">
+  <img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/marquineo/BackGA">
+  <img src="https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=github" />
+</a>
+</p>
+<img src="https://imgur.com/a/7qdkMIJ" width="400" alt="ProyectoIntermodularPuerto">
+</a>
+<p></p>
+</div>
+</td>
+
 </tr>
 </table>
 
