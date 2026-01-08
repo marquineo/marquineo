@@ -6,7 +6,6 @@
 ## Sobre mí
 - 💻 Desarrollador web
 - 🚀 Aprendiendo cada día
-- Algunos sufren por amor, yo sufro porque no compila (╥﹏╥)
 - 📍 Valencia, España
 
 <br>
