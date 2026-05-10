@@ -1,12 +1,12 @@
 <div align="center">
-<h2 align="center">01001000 01101111 01101100 01100001 00101100 00100000 01010011 01101111 01111001 00100000 01001101 01100001 01110010 01100011 01101111 01110011 00100000 01010000 01101111 01110110 01100101 01100100 01100001 00100000 01010011 01100101 01100111 01101111 01110110 01101001 01100001
+<h2 align="center">¡Hola, Bienvenido a mi perfil!
 👋</h2>
 </div>
 
 ## Sobre mí
-- 💻 Desarrollador web
-- 🚀 Aprendiendo cada día
-- 📍 Valencia, España
+Vengo del desarrollo web. Acabé enamorado de los datos.
+Estudié DAW, pero en algún momento me di cuenta de que lo que más me enganchaba era entender qué hay detrás de los números. Así que decidí especializarme en Python aplicado al análisis de datos, aquí en Valencia.
+Ahora estoy terminando esa formación y haciendo mis primeros proyectos reales.
 
 <br>
 
