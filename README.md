@@ -19,7 +19,7 @@ Ahora estoy terminando esa formación y haciendo mis primeros proyectos reales.
 <h3 align="center">Clasificación de Enfermedad Cardíaca mediante Machine Learning</h3>
 <div align="center">
 <a href="https://github.com/marquineo/CLASIFICADOR-DE-ESTADO-DE-SALUD-MEDIANTE-MACHINE-LEARNING" target="_blank">
-<img src="https://imgur.com/a/YghshNZ" width="650" alt="Página Basics">
+<img src="https://i.imgur.com/rpkjp3z.png" width="650" alt="Página Basics">
 </a>
 <p>Desarrollo de modelo de <strong>Machine Learning</strong> para clasificar pacientes según la presencia o ausencia de enfermedad cardíaca a partir de datos biomédicos.</p>
 </div>
