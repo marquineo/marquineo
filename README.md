@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">¡Hola, Bienvenido a mi perfil!
+<h2 align="center">¡Hola, Bienvenido a mi nido de código!
 👋</h2>
 </div>
 
@@ -16,16 +16,16 @@ Ahora estoy terminando esa formación y haciendo mis primeros proyectos reales.
 
 <!-- Proyecto 1 -->
 <td width="50%">
-<h3 align="center">Basics</h3>
+<h3 align="center">Clasificación de Enfermedad Cardíaca mediante Machine Learning</h3>
 <div align="center">
-<a href="https://github.com/marquineo/WebCarlos" target="_blank">
-<img src="https://imgur.com/nKTCmGk.jpg" width="650" alt="Página Basics">
+<a href="https://github.com/marquineo/CLASIFICADOR-DE-ESTADO-DE-SALUD-MEDIANTE-MACHINE-LEARNING" target="_blank">
+<img src="https://imgur.com/a/YghshNZ" width="650" alt="Página Basics">
 </a>
-<p>Página web <strong>oficial</strong> del centro de entrenamiento BASICS.</p>
+<p>Desarrollo de modelo de <strong>Machine Learning</strong> para clasificar pacientes según la presencia o ausencia de enfermedad cardíaca a partir de datos biomédicos.</p>
 </div>
 </td>
 
-<!-- Proyecto 2 -->
+<!-- Proyecto 2 
 <td width="50%">
 <h3 align="center">Norai2006</h3>
 <div align="center">
@@ -35,7 +35,7 @@ Ahora estoy terminando esa formación y haciendo mis primeros proyectos reales.
 <p>Página web <strong>oficial</strong> de la distribuidora Norai2006.</p>
 </div>
 </td>
-</tr>
+</tr>-->
 
 <tr>
 <!-- Proyecto 3 -->
