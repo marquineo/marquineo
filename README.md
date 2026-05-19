@@ -25,17 +25,17 @@ Ahora estoy terminando esa formación y haciendo mis primeros proyectos reales.
 </div>
 </td>
 
-<!-- Proyecto 2 
+<!-- Proyecto 2 -->
 <td width="50%">
 <h3 align="center">Norai2006</h3>
 <div align="center">
-<a href="https://github.com/marquineo/Web1830" target="_blank">
-<img src="https://imgur.com/LxJEhjF.jpg" width="650" alt="Página Norai2006">
+<a href="https://github.com/marquineo/EDA_valencia" target="_blank">
+<img src="https://i.imgur.com/MPLrUb3.png" width="650" alt="Página Norai2006">
 </a>
 <p>Página web <strong>oficial</strong> de la distribuidora Norai2006.</p>
 </div>
 </td>
-</tr>-->
+</tr>
 
 <tr>
 <!-- Proyecto 3 -->
