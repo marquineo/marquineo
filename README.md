@@ -27,12 +27,12 @@ Ahora estoy terminando esa formación y haciendo mis primeros proyectos reales.
 
 <!-- Proyecto 2 -->
 <td width="50%">
-<h3 align="center">Norai2006</h3>
+<h3 align="center">Análisis exploratorio de datos sobre la calidad del aire en Valencia (2021-2022)</h3>
 <div align="center">
 <a href="https://github.com/marquineo/EDA_valencia" target="_blank">
 <img src="https://i.imgur.com/MPLrUb3.png" width="650" alt="Página Norai2006">
 </a>
-<p>Página web <strong>oficial</strong> de la distribuidora Norai2006.</p>
+<p>Este repositorio contiene un análisis exploratorio de datos <strong>(EDA)</strong>strong> de datos de calidad del aire procedentes de diversas estaciones de monitorización en Valencia, España, correspondientes a los años 2021 y 2022. El análisis se realiza en un <strong>Jupyter Notebook</strong> y utiliza bibliotecas de Python como <strong>Pandas, Matplotlib y Seaborn</strong> para limpiar, procesar, analizar y visualizar el conjunto de datos.</p>
 </div>
 </td>
 </tr>
