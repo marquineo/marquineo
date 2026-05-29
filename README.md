@@ -32,7 +32,7 @@ Ahora estoy terminando esa formación y haciendo mis primeros proyectos reales.
 <a href="https://github.com/marquineo/EDA_valencia" target="_blank">
 <img src="https://i.imgur.com/MPLrUb3.png" width="650" alt="Página Norai2006">
 </a>
-<p>Este repositorio contiene un análisis exploratorio de datos <strong>(EDA)</strong>strong> de datos de calidad del aire procedentes de diversas estaciones de monitorización en Valencia, España, correspondientes a los años 2021 y 2022. El análisis se realiza en un <strong>Jupyter Notebook</strong> y utiliza bibliotecas de Python como <strong>Pandas, Matplotlib y Seaborn</strong> para limpiar, procesar, analizar y visualizar el conjunto de datos.</p>
+<p>Este repositorio contiene un análisis exploratorio de datos <strong>(EDA)</strong> de datos de calidad del aire procedentes de diversas estaciones de monitorización en Valencia, España, correspondientes a los años 2021 y 2022. El análisis se realiza en un <strong>Jupyter Notebook</strong> y utiliza bibliotecas de Python como <strong>Pandas, Matplotlib y Seaborn</strong> para limpiar, procesar, analizar y visualizar el conjunto de datos.</p>
 </div>
 </td>
 </tr>
