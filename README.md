@@ -4,9 +4,15 @@
 </div>
 
 ## Sobre mí
-Vengo del desarrollo web. Acabé enamorado de los datos.
-Estudié DAW, pero en algún momento me di cuenta de que lo que más me enganchaba era entender qué hay detrás de los números. Así que decidí especializarme en Python aplicado al análisis de datos, aquí en Valencia.
-Ahora estoy terminando esa formación y haciendo mis primeros proyectos reales.
+
+Vengo del desarrollo web. Ahí es donde construí mi base como desarrollador y donde sigo teniendo mi principal interés.
+
+Estudié DAW y posteriormente me especialicé en Python, acercándome al mundo del **análisis de datos y la inteligencia artificial**. Durante ese camino he desarrollado diferentes proyectos con Python, trabajando con datos, visualización y modelos de machine learning.
+
+Actualmente estoy explorando una nueva forma de desarrollar software mediante **AI-assisted development**, aprendiendo a trabajar con **agentes de código** y metodologías como **Spec-Driven Development (SDD)**. Estoy utilizando herramientas como **Spec Kit** para aprender a definir, estructurar y validar mejor las soluciones antes de implementarlas con ayuda de la IA.
+
+Mi objetivo es seguir creciendo como **desarrollador web**, incorporando estos conocimientos de **Python, Data e IA** y aprendiendo a utilizarlos junto con las nuevas herramientas y metodologías de desarrollo asistido por IA.
+
 
 <br>
 
