@@ -56,11 +56,11 @@ Currently focused on improving my software development skills and following **cl
 
 ## 🚀 Projects
 
-### [CitaCon](https://github.com/marquineo/CitaCon)
+### [CitaCon-React](https://github.com/marquineo/CitaCon-React)
 
 Web application for managing and booking training sessions, including user management, scheduling, bookings, and subscriptions.
 
-**Technologies:** Angular · TypeScript · Laravel · PHP · Docker
+**Technologies:** React · TypeScript · Python · FastAPI · MySQL
 
 ### [Heart Disease Classification](https://github.com/marquineo/CLASIFICADOR-DE-ESTADO-DE-SALUD-MEDIANTE-MACHINE-LEARNING)
 
