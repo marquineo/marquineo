@@ -84,9 +84,9 @@ Port and mooring management application developed for La Marina de Valencia.
 
 ## 🎓 Education
 
-- **Python Specialization Course** — Grade: 9.75/10 (2025–2026)
-- **Higher Vocational Training in Web Application Development (DAW)** (2023–2025)
-- **Higher Vocational Training in Networked Computer Systems Administration (ASIR)** (2021–2023)
+- **Python Specialization Course** — Grade: 9.75/10 (2024–2025)
+- **Higher Vocational Training in Web Application Development (DAW)** (2022–2024)
+- **Higher Vocational Training in Networked Computer Systems Administration (ASIR)** (2020–2022)
 
 ---
 
