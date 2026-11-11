@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · React · Python · FastAPI
 
-Full-Stack Developer with over 1 year of experience in **React, Python (FastAPI), and Google Cloud Platform**.
+Full-Stack Developer with 2 year of experience in **React, Python (FastAPI), and Google Cloud Platform**.
 
 Experience working with clients in **healthcare, sports, and transportation**.
 
